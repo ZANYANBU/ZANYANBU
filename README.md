@@ -2,6 +2,8 @@
 
 # Hi, I'm V. Anbuchelvan 👋
 
+<a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=680&height=45&lines=Quantum+Computing+%E2%9A%9B%EF%B8%8F;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" /></a>
+
 ### ⚛️ Quantum computing · 🖥️ low-level systems · 🤖 local-first AI — built from first principles
 
 CS undergrad at **SRM Institute of Science & Technology** · Dept. of Computing Technologies, *Quantum Computing Vertical*.
@@ -125,10 +127,10 @@ Businesses run their operations in **plain language** — the agent reasons over
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZANYANBU&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZANYANBU&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZANYANBU&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZANYANBU&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=tokyonight" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="streak"/>
 
 </div>
 
