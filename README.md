@@ -2,7 +2,7 @@
 
 # Hi, I'm V. Anbuchelvan 👋
 
-<a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=680&height=45&lines=Quantum+Computing+%E2%9A%9B%EF%B8%8F;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" /></a>
+<a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=680&height=45&lines=Quantum+Computing+%E2%9A%9B%EF%B8%8F;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" width="680" height="45" /></a>
 
 ### ⚛️ Quantum computing · 🖥️ low-level systems · 🤖 local-first AI — built from first principles
 
@@ -127,15 +127,15 @@ Businesses run their operations in **plain language** — the agent reasons over
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZANYANBU&theme=radical" alt="Profile summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZANYANBU&theme=radical" alt="Profile summary" width="700" height="200"/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZANYANBU&theme=radical" alt="Top languages by repo"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZANYANBU&theme=radical" alt="Most committed languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZANYANBU&theme=radical" alt="Top languages by repo" width="340" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZANYANBU&theme=radical" alt="Most committed languages" width="340" height="200"/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZANYANBU&theme=radical" alt="Commit stats"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="Contribution streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZANYANBU&theme=radical" alt="Commit stats" width="340" height="200"/>
+<img src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="Contribution streak" width="495" height="195"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZANYANBU&theme=radical&hide_border=true&area=true" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZANYANBU&theme=radical&hide_border=true&area=true" alt="Activity graph" width="1000" height="350"/>
 
 </div>
 
