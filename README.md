@@ -127,10 +127,15 @@ Businesses run their operations in **plain language** — the agent reasons over
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZANYANBU&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZANYANBU&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="top langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZANYANBU&theme=radical" alt="Profile summary"/>
 
-<img src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="streak"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZANYANBU&theme=radical" alt="Top languages by repo"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZANYANBU&theme=radical" alt="Most committed languages"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZANYANBU&theme=radical" alt="Commit stats"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="Contribution streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZANYANBU&theme=radical&hide_border=true&area=true" alt="Activity graph"/>
 
 </div>
 
