@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm V. Anbuchelvan 👋
+# Hi, I'm V. Anbuchelvan 
 
 <a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=680&height=45&lines=Quantum+Computing+%E2%9A%9B%EF%B8%8F;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" width="680" height="45" /></a>
 
