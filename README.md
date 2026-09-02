@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=680&height=45&lines=Quantum+Computing+%E2%9A%9B%EF%B8%8F;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" width="680" height="45" /></a>
 
-### ⚛️ Quantum computing · 🖥️ low-level systems · 🤖 local-first AI — built from first principles
+### Quantum computing · 🖥️ low-level systems · 🤖 local-first AI — built from first principles
 
 CS undergrad at **SRM Institute of Science & Technology** · Dept. of Computing Technologies, *Quantum Computing Vertical*.
 I like taking things apart to the physics and rebuilding them — from qubits to keyboard backlights to junkyard servers.
@@ -19,28 +19,28 @@ I like taking things apart to the physics and rebuilding them — from qubits to
 
 ---
 
-## 🧠 About
+##  About
 
-- ⚛️ **Quantum computing** — Qiskit, quantum algorithms, error correction & hybrid classical–quantum systems.
-- 🔬 **Research** — UROP project on *Quantum Algorithms for Quantum Chemistry*; presented a paper at SRMIST Research Day.
-- 🖥️ **Low-level & systems** — Swift/macOS internals, private Apple APIs, OS & memory, homelab & data recovery.
-- 🤖 **Local-first AI** — agents and chat UIs that run fully offline on Ollama, plus MCP tools for AI platforms.
-- 🌐 **Open source** — I ship small, sharp tools and write up how they work.
+-  **Quantum computing** — Qiskit, quantum algorithms, error correction & hybrid classical–quantum systems.
+-  **Research** — UROP project on *Quantum Algorithms for Quantum Chemistry*; presented a paper at SRMIST Research Day.
+-  **Low-level & systems** — Swift/macOS internals, private Apple APIs, OS & memory, homelab & data recovery.
+-  **Local-first AI** — agents and chat UIs that run fully offline on Ollama, plus MCP tools for AI platforms.
+- **Open source** — I ship small, sharp tools and write up how they work.
 
 ---
 
-## 💼 Currently Building
+## Currently Building
 
 ### [**Eesa AI**](https://eesa.ai) — a production multi-tenant AI agent platform &nbsp;[![Live](https://img.shields.io/badge/Live-eesa.ai-6f42c1?style=flat-square)](https://eesa.ai)
 
 Businesses run their operations in **plain language** — the agent reasons over their own tools through **MCP**, with scheduled flows, role-based access control, and a chat + Flow-Board UI. Shipped across **web + iOS**.
 
 `Python` · `LangGraph` · `MCP` · `Next.js` · `Flutter` · `Claude` · `AWS`
-> 🔌 My open-source [**eesa-plugin-dialpad**](https://github.com/ZANYANBU/eesa-plugin-dialpad) plugs into this platform — 102 auto-generated MCP tools.
+>  My open-source [**eesa-plugin-dialpad**](https://github.com/ZANYANBU/eesa-plugin-dialpad) plugs into this platform — 102 auto-generated MCP tools.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -77,18 +77,18 @@ Businesses run their operations in **plain language** — the agent reasons over
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| ⚛️ **[Quantum Classroom](https://github.com/ZANYANBU/Quantum-Classroom)** | Browser-based quantum lab that runs **real Qiskit circuits** across 12 guided experiments (Grover, teleportation, BB84, QFT). | `Next.js` `FastAPI` `Qiskit Aer` `Monaco` |
-| ⚡ **[keyboard-strobe](https://github.com/ZANYANBU/keyboard-strobe)** ⭐ | Beat-syncs your MacBook's keyboard backlight to system audio via private LED APIs — zero-latency. | `Swift` `ScreenCaptureKit` `CoreBrightness` |
-| 📳 **[haptic-mouse](https://github.com/ZANYANBU/haptic-mouse)** | Gives any external mouse a **Taptic-Engine scroll detent** borrowed from the trackpad. | `Swift` `IOKit` `CGEventTap` |
-| 🌐 **[ZanySurf](https://github.com/ZANYANBU/Chrome_Assist_AI)** | Autonomous browser agent that plans, clicks, and fills forms — runs **fully local** via Ollama, 6 LLM providers. | `JS` `Chrome MV3` `Ollama` |
-| 🧠 **[Aether](https://github.com/ZANYANBU/aether)** | Private, 100%-local AI chat with vision & hands-free voice — the whole backend is **one dependency-free file**. | `Python` `Ollama` `faster-whisper` |
-| 🔌 **[eesa-plugin-dialpad](https://github.com/ZANYANBU/eesa-plugin-dialpad)** | Auto-generates **102 read-only MCP tools** from Dialpad's OpenAPI spec — multi-tenant, stateless credentials. | `Node.js` `MCP` `OpenAPI` |
-| 🕵️ **[Anbu Surveillance](https://github.com/ZANYANBU/Anbu-Surveillance)** ⭐ | Multi-camera home security with **YOLO** person detection, email alerts & Fernet-encrypted config. | `Python` `YOLO` `OpenCV` |
-| 🖥️ **[Junkyard PC → TrueNAS](https://github.com/ZANYANBU/Junkyard-pc-to-truenas-)** ⭐ | Rebuilt a working server from **e-waste** (bent pins, blown caps, BIOS reflash) and recovered **200 GB** of lost data. | `TrueNAS` `ZFS` `TestDisk` `Tailscale` |
+| **[Quantum Classroom](https://github.com/ZANYANBU/Quantum-Classroom)** | Browser-based quantum lab that runs **real Qiskit circuits** across 12 guided experiments (Grover, teleportation, BB84, QFT). | `Next.js` `FastAPI` `Qiskit Aer` `Monaco` |
+|  **[keyboard-strobe](https://github.com/ZANYANBU/keyboard-strobe)** ⭐ | Beat-syncs your MacBook's keyboard backlight to system audio via private LED APIs — zero-latency. | `Swift` `ScreenCaptureKit` `CoreBrightness` |
+|  **[haptic-mouse](https://github.com/ZANYANBU/haptic-mouse)** | Gives any external mouse a **Taptic-Engine scroll detent** borrowed from the trackpad. | `Swift` `IOKit` `CGEventTap` |
+|  **[ZanySurf](https://github.com/ZANYANBU/Chrome_Assist_AI)** | Autonomous browser agent that plans, clicks, and fills forms — runs **fully local** via Ollama, 6 LLM providers. | `JS` `Chrome MV3` `Ollama` |
+|  **[Aether](https://github.com/ZANYANBU/aether)** | Private, 100%-local AI chat with vision & hands-free voice — the whole backend is **one dependency-free file**. | `Python` `Ollama` `faster-whisper` |
+|  **[eesa-plugin-dialpad](https://github.com/ZANYANBU/eesa-plugin-dialpad)** | Auto-generates **102 read-only MCP tools** from Dialpad's OpenAPI spec — multi-tenant, stateless credentials. | `Node.js` `MCP` `OpenAPI` |
+|  **[Anbu Surveillance](https://github.com/ZANYANBU/Anbu-Surveillance)** ⭐ | Multi-camera home security with **YOLO** person detection, email alerts & Fernet-encrypted config. | `Python` `YOLO` `OpenCV` |
+| **[Junkyard PC → TrueNAS](https://github.com/ZANYANBU/Junkyard-pc-to-truenas-)** ⭐ | Rebuilt a working server from **e-waste** (bent pins, blown caps, BIOS reflash) and recovered **200 GB** of lost data. | `TrueNAS` `ZFS` `TestDisk` `Tailscale` |
 
 <details>
 <summary><b>More projects →</b></summary>
@@ -97,23 +97,23 @@ Businesses run their operations in **plain language** — the agent reasons over
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🐦 **[Birdfy](https://github.com/ZANYANBU/Birdfy.com)** | A Flappy-Bird tribute that grew from one HTML file into a native 60fps iOS/Android game. | `JS` `Canvas` `React Native` `Expo` |
-| 🤖 **[TaskPilot](https://github.com/ZANYANBU/Taskpilot)** ⭐ | Local-first dashboard that AI-drafts, auto-posts, and tracks Reddit content. | `Python` `FastAPI` `Groq` `PRAW` |
-| 📷 **[Object Detection](https://github.com/ZANYANBU/Object-detection)** | Multi-camera intrusion detection with YOLOv5, clip recording & throttled email alerts. | `Python` `YOLOv5` `Tkinter` |
-| 🎓 **[School Management System](https://github.com/ZANYANBU/DBMS-project)** | Flask school DB app with role-based dashboards and a live in-browser SQL console. | `Flask` `SQLite` `SQL` |
-| 🌙 **[PDF Dark Mode Converter](https://github.com/ZANYANBU/pdf-dark-mode-converter)** | Recolors PDFs to dark mode entirely client-side — files never leave the browser. | `pdf.js` `pdf-lib` |
+|  **[Birdfy](https://github.com/ZANYANBU/Birdfy.com)** | A Flappy-Bird tribute that grew from one HTML file into a native 60fps iOS/Android game. | `JS` `Canvas` `React Native` `Expo` |
+|  **[TaskPilot](https://github.com/ZANYANBU/Taskpilot)** ⭐ | Local-first dashboard that AI-drafts, auto-posts, and tracks Reddit content. | `Python` `FastAPI` `Groq` `PRAW` |
+|  **[Object Detection](https://github.com/ZANYANBU/Object-detection)** | Multi-camera intrusion detection with YOLOv5, clip recording & throttled email alerts. | `Python` `YOLOv5` `Tkinter` |
+|  **[School Management System](https://github.com/ZANYANBU/DBMS-project)** | Flask school DB app with role-based dashboards and a live in-browser SQL console. | `Flask` `SQLite` `SQL` |
+|  **[PDF Dark Mode Converter](https://github.com/ZANYANBU/pdf-dark-mode-converter)** | Recolors PDFs to dark mode entirely client-side — files never leave the browser. | `pdf.js` `pdf-lib` |
 
 </details>
 
 ---
 
-## ⚛️ Quantum & Research
+## Quantum & Research
 
-- 📄 **Research paper** — *Evaluating the Feasibility of MRI Techniques for Quantum Information Storage* (using ice's hydrogen nuclear spin as a qubit medium) · presented at **SRMIST Research Day**.
-- 🔬 **UROP** — *Quantum Algorithms for Quantum Chemistry*: implementing algorithms to estimate molecular ground-state energies.
-- 🧑‍🏫 **IBM Qiskit Hands-on Workshop** — helped organize the workshop under SRMIST's Quantum Computing Vertical (Oct 2025).
+-  **Research paper** — *Evaluating the Feasibility of MRI Techniques for Quantum Information Storage* (using ice's hydrogen nuclear spin as a qubit medium) · presented at **SRMIST Research Day**.
+-  **UROP** — *Quantum Algorithms for Quantum Chemistry*: implementing algorithms to estimate molecular ground-state energies.
+-  **IBM Qiskit Hands-on Workshop** — helped organize the workshop under SRMIST's Quantum Computing Vertical (Oct 2025).
 
-### 🎓 Certifications
+###  Certifications
 | Certification | Issuer | Verify |
 |---|---|---|
 | Qiskit Global Summer School 2025 — *Quantum Excellence* | **IBM** | [🔗 Credly](https://www.credly.com/badges/41fea0f4-70ae-4bca-9546-0c948b2d06c4/public_url) |
@@ -123,7 +123,7 @@ Businesses run their operations in **plain language** — the agent reasons over
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -145,6 +145,6 @@ Businesses run their operations in **plain language** — the agent reasons over
 
 *"Understand it from first principles, then build it."*
 
-⭐ From [ZANYANBU](https://github.com/ZANYANBU)
+ From [ZANYANBU](https://github.com/ZANYANBU)
 
 </div>
