@@ -182,6 +182,7 @@ My father rode this bike for 20 years and 100,000 km. He and I brought it back w
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZANYANBU&theme=radical" alt="Contributions over the last year" width="700" height="200"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZANYANBU&theme=radical" alt="Commit stats" width="340" height="200"/>
 <img src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="Total contributions and streak" width="495" height="195"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZANYANBU&theme=radical" alt="Top languages by repo" width="340" height="200"/>
@@ -189,7 +190,7 @@ My father rode this bike for 20 years and 100,000 km. He and I brought it back w
 
 </div>
 
-Most of these contributions are in Eesa's private repositories; the language charts count public code only.
+Most of my contributions are in Eesa's private repositories. The commit-stats and language cards count public repositories only.
 
 ---
 
