@@ -1,150 +1,152 @@
 <div align="center">
 
-# Hi, I'm V. Anbuchelvan 
+# V. Anbuchelvan
 
-<a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=680&height=45&lines=Quantum+Computing+%E2%9A%9B%EF%B8%8F;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" width="680" height="45" /></a>
+**I build software that businesses run their day on, and tools I wanted to exist.**
 
-### Quantum computing ·  low-level systems · local-first AI — built from first principles
+Building [Eesa AI](https://eesa.ai) · Computer Science undergrad at SRM Institute of Science and Technology, Chennai
 
-CS undergrad at **SRM Institute of Science & Technology** · Dept. of Computing Technologies, *Quantum Computing Vertical*.
-I like taking things apart to the physics and rebuilding them — from qubits to keyboard backlights to junkyard servers.
-
-<a href="https://eesa.ai"><img src="https://img.shields.io/badge/Building-eesa.ai-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="Eesa AI"/></a>
+<a href="https://eesa.ai"><img src="https://img.shields.io/badge/Eesa_AI-eesa.ai-6f42c1?style=flat-square" alt="Eesa AI"/></a>
 <a href="https://www.linkedin.com/in/anbuchelvan-v-aa5b11260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:zanyanbuchelvan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/ZANYANBU?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repos"/></a>
-<img src="https://komarev.com/ghpvc/?username=ZANYANBU&style=flat-square&color=6f42c1&label=Profile+views" alt="views"/>
+<a href="mailto:zanyanbuchelvan@gmail.com"><img src="https://img.shields.io/badge/Email-zanyanbuchelvan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-##  About
+## Now: Eesa AI
 
--  **Quantum computing** — Qiskit, quantum algorithms, error correction & hybrid classical–quantum systems.
--  **Research** — UROP project on *Quantum Algorithms for Quantum Chemistry*; presented a paper at SRMIST Research Day.
--  **Low-level & systems** — Swift/macOS internals, private Apple APIs, OS & memory, homelab & data recovery.
--  **Local-first AI** — agents and chat UIs that run fully offline on Ollama, plus MCP tools for AI platforms.
-- **Open source** — I ship small, sharp tools and write up how they work.
+[**Eesa**](https://eesa.ai) lets a business run its operations by asking. It connects to the
+systems a company already uses, builds the screens its team needs, and does the work: on the
+web, on iPhone and Android, and in WhatsApp. It is live in production.
 
----
+I have worked across the whole product since June 2026:
 
-## Currently Building
-
-### [**Eesa AI**](https://eesa.ai) — a production multi-tenant AI agent platform &nbsp;[![Live](https://img.shields.io/badge/Live-eesa.ai-6f42c1?style=flat-square)](https://eesa.ai)
-
-Businesses run their operations in **plain language** — the agent reasons over their own tools through **MCP**, with scheduled flows, role-based access control, and a chat + Flow-Board UI. Shipped across **web + iOS**.
-
-`Python` · `LangGraph` · `MCP` · `Next.js` · `Flutter` · `Claude` · `AWS`
->  My open-source [**eesa-plugin-dialpad**](https://github.com/ZANYANBU/eesa-plugin-dialpad) plugs into this platform — 102 auto-generated MCP tools.
-
----
-
-## Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Quantum & ML**
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Frameworks & Web**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Systems & Tools**
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-##  Featured Projects
-
-| Project | What it does | Stack |
+| Area | What I built | Stack |
 |---|---|---|
-| **[Quantum Classroom](https://github.com/ZANYANBU/Quantum-Classroom)** | Browser-based quantum lab that runs **real Qiskit circuits** across 12 guided experiments (Grover, teleportation, BB84, QFT). | `Next.js` `FastAPI` `Qiskit Aer` `Monaco` |
-|  **[keyboard-strobe](https://github.com/ZANYANBU/keyboard-strobe)** ⭐ | Beat-syncs your MacBook's keyboard backlight to system audio via private LED APIs — zero-latency. | `Swift` `ScreenCaptureKit` `CoreBrightness` |
-|  **[haptic-mouse](https://github.com/ZANYANBU/haptic-mouse)** | Gives any external mouse a **Taptic-Engine scroll detent** borrowed from the trackpad. | `Swift` `IOKit` `CGEventTap` |
-|  **[ZanySurf](https://github.com/ZANYANBU/Chrome_Assist_AI)** | Autonomous browser agent that plans, clicks, and fills forms — runs **fully local** via Ollama, 6 LLM providers. | `JS` `Chrome MV3` `Ollama` |
-|  **[Aether](https://github.com/ZANYANBU/aether)** | Private, 100%-local AI chat with vision & hands-free voice — the whole backend is **one dependency-free file**. | `Python` `Ollama` `faster-whisper` |
-|  **[eesa-plugin-dialpad](https://github.com/ZANYANBU/eesa-plugin-dialpad)** | Auto-generates **102 read-only MCP tools** from Dialpad's OpenAPI spec — multi-tenant, stateless credentials. | `Node.js` `MCP` `OpenAPI` |
-|  **[Anbu Surveillance](https://github.com/ZANYANBU/Anbu-Surveillance)** ⭐ | Multi-camera home security with **YOLO** person detection, email alerts & Fernet-encrypted config. | `Python` `YOLO` `OpenCV` |
-| **[Junkyard PC → TrueNAS](https://github.com/ZANYANBU/Junkyard-pc-to-truenas-)** ⭐ | Rebuilt a working server from **e-waste** (bent pins, blown caps, BIOS reflash) and recovered **200 GB** of lost data. | `TrueNAS` `ZFS` `TestDisk` `Tailscale` |
+| **Mobile app** | Primary contributor to the iOS and Android app: chat, the Flow Board, and sharing a file to Eesa from any other app. | `Flutter` `Dart` `Swift` |
+| **Add-ons** | Primary contributor to five add-ons that plug into the agent as tools: **Attendance** (staff clock in on site, timesheets add themselves up), **Drive** (team folders and sharing), **Invoices**, **Calls** (102 read-only agent tools generated from Dialpad's OpenAPI spec) and **QuickBooks**. | `Node.js` `MCP` `PostgreSQL` |
+| **Backend** | Worked on workflows that run on a schedule and wait for a person's answer, role-based access for add-ons, approval before the agent writes to an outside system, and the server-driven share page. | `Python` `LangGraph` |
+| **Web app** | The same screens and flows in the browser. | `Next.js` `TypeScript` |
+
+**1,400+ commits across 9 repositories in four months.** The code is private, so here it
+shows up as green squares rather than source. I am happy to walk through any part of it.
+
+---
+
+## Open source: tools I built because I wanted them
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/SlideView"><img src="https://raw.githubusercontent.com/ZANYANBU/SlideView/main/docs/library.png" alt="SlideView library"></a>
+<h3><a href="https://github.com/ZANYANBU/SlideView">SlideView</a></h3>
+A native macOS study app. Every lecture file in one dark, offline library, with an embedded Excalidraw board and a map of how your material connects.<br><br>
+<code>Swift</code> <code>AppKit</code> <code>WebKit</code> · 58 tests in CI · <a href="https://github.com/ZANYANBU/SlideView/releases/latest">download</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/aether"><img src="https://raw.githubusercontent.com/ZANYANBU/aether/main/docs/screenshot.png" alt="Aether chat"></a>
+<h3><a href="https://github.com/ZANYANBU/aether">Aether</a></h3>
+Private AI chat that runs entirely on your own machine with any Ollama model: text, images and hands-free voice. The whole backend is one Python file with no dependencies.<br><br>
+<code>Python</code> <code>Ollama</code> <code>Whisper</code> · tested on 3 Python versions
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/keyboard-strobe"><img src="https://raw.githubusercontent.com/ZANYANBU/keyboard-strobe/main/demos/demo.gif" alt="Keyboard Strobe demo"></a>
+<h3><a href="https://github.com/ZANYANBU/keyboard-strobe">Keyboard Strobe</a></h3>
+Flashes a MacBook's keyboard backlight in time with whatever is playing. System audio comes in through ScreenCaptureKit; the LEDs are driven through a private Apple framework.<br><br>
+<code>Swift</code> <code>ScreenCaptureKit</code> · <a href="https://github.com/ZANYANBU/keyboard-strobe/releases/latest">download</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/haptic-mouse"><img src="https://raw.githubusercontent.com/ZANYANBU/haptic-mouse/main/assets/screenshot.jpg" alt="HapticMouse menu"></a>
+<h3><a href="https://github.com/ZANYANBU/haptic-mouse">HapticMouse</a></h3>
+Gives any cheap USB mouse a haptic scroll wheel by borrowing the Taptic Engine in the MacBook's trackpad.<br><br>
+<code>Swift</code> <code>IOKit</code> <code>CGEventTap</code> · <a href="https://github.com/ZANYANBU/haptic-mouse/releases/latest">download</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/zanysurf-browser-agent"><img src="https://raw.githubusercontent.com/ZANYANBU/zanysurf-browser-agent/main/docs/demo.gif" alt="ZANYSURF demo"></a>
+<h3><a href="https://github.com/ZANYANBU/zanysurf-browser-agent">ZANYSURF Browser Agent</a></h3>
+An AI agent that plans, clicks and fills in forms in the browser, fully local with Ollama or with other providers. <a href="https://microsoftedge.microsoft.com/addons/detail/pmadlohecccigmfcmickngnlikhmnjpa">Published on Microsoft Edge Add-ons.</a><br><br>
+<code>JavaScript</code> <code>Manifest V3</code> <code>Ollama</code>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/Anbu-Surveillance"><img src="https://raw.githubusercontent.com/ZANYANBU/Anbu-Surveillance/main/assets/camera-setup.png" alt="Anbu Surveillance camera setup"></a>
+<h3><a href="https://github.com/ZANYANBU/Anbu-Surveillance">Anbu Surveillance</a></h3>
+Home security across several cameras: YOLO person detection, recorded clips, email alerts with a snapshot, and an encrypted config.<br><br>
+<code>Python</code> <code>YOLO</code> <code>OpenCV</code>
+</td>
+</tr>
+</table>
+
+---
+
+## I take hardware apart too
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/junkyard-pc-to-truenas"><img src="https://raw.githubusercontent.com/ZANYANBU/junkyard-pc-to-truenas/main/photos/first-boot-on-the-bench.jpeg" alt="A salvaged PC running open on a bench"></a>
+<h3><a href="https://github.com/ZANYANBU/junkyard-pc-to-truenas">Junkyard PC to TrueNAS server</a></h3>
+In first year I rebuilt a dead PC from e-waste: straightened bent CPU socket pins, replaced a swollen capacitor in the power supply, reflashed the BIOS, then recovered 200 GB from a wiped disk and turned the machine into a home server.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ZANYANBU/tvs-centra-restoration"><img src="https://raw.githubusercontent.com/ZANYANBU/tvs-centra-restoration/main/photos/13-restored-and-running/02-restored-black-tvs-centra-night-hero-shot-IMG_E6488.jpg" alt="The restored TVS Centra at night"></a>
+<h3><a href="https://github.com/ZANYANBU/tvs-centra-restoration">TVS Centra restoration</a></h3>
+My father rode this bike for 20 years and 100,000 km. He and I brought it back with parts from a ₹3,000 scrapyard donor, an LED headlight and a full AC to DC electrical conversion.
+</td>
+</tr>
+</table>
+
+---
+
+## Building since 2024
+
+| When | What |
+|---|---|
+| **2024** | Started with CS50 and Python on edX. |
+| **Mar 2025** | First shipped things: [Birdfy](https://github.com/ZANYANBU/Birdfy.com), a browser game that grew into a React Native app, and a YOLO home-security system. |
+| **Apr 2025** | [TaskPilot](https://github.com/ZANYANBU/Taskpilot), a local dashboard for drafting and tracking posts with an LLM. |
+| **Jul 2025** | Rebuilt a PC from scrap and made it a TrueNAS server. |
+| **Feb 2026** | A [school management system](https://github.com/ZANYANBU/DBMS-project) for a database course: normalised schema, roles, a live SQL console. |
+| **Mar 2026** | ZANYSURF Browser Agent published on Microsoft Edge Add-ons. |
+| **Jun 2026** | Joined the build of **Eesa AI**: backend, web, mobile and add-ons. |
+| **Jul 2026** | Aether, HapticMouse and Keyboard Strobe, all in one month. Restored the TVS Centra. |
+| **Sep 2026** | SlideView, because no slide viewer did what I needed for revision. |
+| **Oct 2026** | Tests, CI and downloadable releases across the open-source projects. |
+
+---
+
+## Toolbox
+
+**Languages** Python · Swift · TypeScript · JavaScript · Dart · C · SQL<br>
+**Mobile and web** Flutter · Next.js · React Native · FastAPI · Flask · Node.js<br>
+**AI** MCP · LangGraph · Ollama and local models · YOLO · OpenCV · PyTorch<br>
+**Systems** macOS internals and private frameworks · Linux · Docker · PostgreSQL · SQLite · TrueNAS · AWS
+
+---
 
 <details>
-<summary><b>More projects →</b></summary>
+<summary><b>Side projects and coursework</b></summary>
 
 <br>
 
-| Project | What it does | Stack |
-|---|---|---|
-|  **[Birdfy](https://github.com/ZANYANBU/Birdfy.com)** | A Flappy-Bird tribute that grew from one HTML file into a native 60fps iOS/Android game. | `JS` `Canvas` `React Native` `Expo` |
-|  **[TaskPilot](https://github.com/ZANYANBU/Taskpilot)** ⭐ | Local-first dashboard that AI-drafts, auto-posts, and tracks Reddit content. | `Python` `FastAPI` `Groq` `PRAW` |
-|  **[Object Detection](https://github.com/ZANYANBU/Object-detection)** | Multi-camera intrusion detection with YOLOv5, clip recording & throttled email alerts. | `Python` `YOLOv5` `Tkinter` |
-|  **[School Management System](https://github.com/ZANYANBU/DBMS-project)** | Flask school DB app with role-based dashboards and a live in-browser SQL console. | `Flask` `SQLite` `SQL` |
-|  **[PDF Dark Mode Converter](https://github.com/ZANYANBU/pdf-dark-mode-converter)** | Recolors PDFs to dark mode entirely client-side — files never leave the browser. | `pdf.js` `pdf-lib` |
+| Project | What it is |
+|---|---|
+| [Quantum Classroom](https://github.com/ZANYANBU/Quantum-Classroom) | A side project: a browser lab that runs 12 Qiskit experiments, each one checked in CI. |
+| [Indian Art Form](https://github.com/ZANYANBU/indian-art-form) | Three interactive pieces for an art course: a timeline, a map, and a generative fusion artwork. [Live site](https://zanyanbu.github.io/indian-art-form/). |
+| [Object Detection](https://github.com/ZANYANBU/Object-detection) | The earlier YOLOv5 intruder-detection experiments. |
+| [PDF Dark Mode Converter](https://github.com/ZANYANBU/pdf-dark-mode-converter) | A fork: recolours PDFs to dark mode in the browser. |
+| [Certificates](https://github.com/ZANYANBU/Certificates) | Certificates and badges, each with a link to verify it. |
 
 </details>
 
 ---
 
-## Quantum & Research
-
--  **Research paper** — *Evaluating the Feasibility of MRI Techniques for Quantum Information Storage* (using ice's hydrogen nuclear spin as a qubit medium) · presented at **SRMIST Research Day**.
--  **UROP** — *Quantum Algorithms for Quantum Chemistry*: implementing algorithms to estimate molecular ground-state energies.
--  **IBM Qiskit Hands-on Workshop** — helped organize the workshop under SRMIST's Quantum Computing Vertical (Oct 2025).
-
-###  Certifications
-| Certification | Issuer | Verify |
-|---|---|---|
-| Qiskit Global Summer School 2025 — *Quantum Excellence* | **IBM** | [🔗 Credly](https://www.credly.com/badges/41fea0f4-70ae-4bca-9546-0c948b2d06c4/public_url) |
-| Quantum Enigmas | **IBM SkillsBuild** | [🔗 Credly](https://www.credly.com/badges/f9770a09-a5a8-45ce-8041-951917c789ab/print) |
-
-📂 Full archive → [**Certificates repo**](https://github.com/ZANYANBU/Certificates)
-
----
-
-##  GitHub Stats
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZANYANBU&theme=radical" alt="Profile summary" width="700" height="200"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZANYANBU&theme=radical" alt="Top languages by repo" width="340" height="200"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZANYANBU&theme=radical" alt="Most committed languages" width="340" height="200"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZANYANBU&theme=radical" alt="Commit stats" width="340" height="200"/>
-<img src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="Contribution streak" width="495" height="195"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZANYANBU&theme=radical&hide_border=true&area=true" alt="Activity graph" width="1000" height="350"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"Understand it from first principles, then build it."*
-
- From [ZANYANBU](https://github.com/ZANYANBU)
+*Understand it from first principles, then build it.*
 
 </div>
