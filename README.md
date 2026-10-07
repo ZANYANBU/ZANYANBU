@@ -1,20 +1,37 @@
 <div align="center">
 
-# V. Anbuchelvan
+# Hi, I'm V. Anbuchelvan
 
-**I build software that businesses run their day on, and tools I wanted to exist.**
+<a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=720&height=45&lines=Building+Eesa+AI%3A+backend%2C+web%2C+mobile%2C+add-ons;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" width="720" height="45" /></a>
 
-Building [Eesa AI](https://eesa.ai) · Computer Science undergrad at SRM Institute of Science and Technology, Chennai
+### I build software that businesses run their day on, and tools I wanted to exist
 
-<a href="https://eesa.ai"><img src="https://img.shields.io/badge/Eesa_AI-eesa.ai-6f42c1?style=flat-square" alt="Eesa AI"/></a>
+Building [**Eesa AI**](https://eesa.ai) · CS undergrad at **SRM Institute of Science & Technology**, Chennai.<br>
+I like taking things apart and rebuilding them, from an AI agent platform to keyboard backlights to junkyard servers.
+
+<a href="https://eesa.ai"><img src="https://img.shields.io/badge/Building-eesa.ai-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="Eesa AI"/></a>
 <a href="https://www.linkedin.com/in/anbuchelvan-v-aa5b11260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:zanyanbuchelvan@gmail.com"><img src="https://img.shields.io/badge/Email-zanyanbuchelvan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:zanyanbuchelvan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ZANYANBU?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repos"/></a>
+<img src="https://komarev.com/ghpvc/?username=ZANYANBU&style=flat-square&color=6f42c1&label=Profile+views" alt="views"/>
 
 </div>
 
 ---
 
-## Now: Eesa AI
+## About
+
+- **Eesa AI** — I work across the whole product: Python backend, Next.js web app, Flutter mobile app and the add-ons the agent uses as tools.
+- **Low-level and systems** — Swift and macOS internals, private Apple frameworks, home servers and data recovery.
+- **Local-first AI** — agents and chat UIs that run fully offline on Ollama, plus MCP tools for AI platforms.
+- **Hardware** — I repair and rebuild things: a server from e-waste, a 20-year-old motorcycle.
+- **Open source** — small, sharp tools with tests, CI and downloadable releases, and write-ups of how they work.
+
+---
+
+## Currently Building
+
+### [**Eesa AI**](https://eesa.ai) — an AI agent platform businesses run on &nbsp;[![Live](https://img.shields.io/badge/Live-eesa.ai-6f42c1?style=flat-square)](https://eesa.ai)
 
 [**Eesa**](https://eesa.ai) lets a business run its operations by asking. It connects to the
 systems a company already uses, builds the screens its team needs, and does the work: on the
@@ -34,7 +51,47 @@ shows up as green squares rather than source. I am happy to walk through any par
 
 ---
 
-## Open source: tools I built because I wanted them
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Mobile & Web**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI & ML**
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Systems & Tools**
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
@@ -119,27 +176,38 @@ My father rode this bike for 20 years and 100,000 km. He and I brought it back w
 
 ---
 
-## Toolbox
+## GitHub Stats
 
-**Languages** Python · Swift · TypeScript · JavaScript · Dart · C · SQL<br>
-**Mobile and web** Flutter · Next.js · React Native · FastAPI · Flask · Node.js<br>
-**AI** MCP · LangGraph · Ollama and local models · YOLO · OpenCV · PyTorch<br>
-**Systems** macOS internals and private frameworks · Linux · Docker · PostgreSQL · SQLite · TrueNAS · AWS
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZANYANBU&theme=radical" alt="Contributions over the last year" width="700" height="200"/>
+
+<img src="https://streak-stats.demolab.com/?user=ZANYANBU&hide_border=true&theme=radical" alt="Total contributions and streak" width="495" height="195"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZANYANBU&theme=radical" alt="Top languages by repo" width="340" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZANYANBU&theme=radical" alt="Most committed languages" width="340" height="200"/>
+
+</div>
+
+Most of these contributions are in Eesa's private repositories; the language charts count public code only.
 
 ---
 
 <details>
-<summary><b>Side projects and coursework</b></summary>
+<summary><b>More projects, side projects and certificates →</b></summary>
 
 <br>
 
 | Project | What it is |
 |---|---|
 | [Quantum Classroom](https://github.com/ZANYANBU/Quantum-Classroom) | A side project: a browser lab that runs 12 Qiskit experiments, each one checked in CI. |
+| [Birdfy](https://github.com/ZANYANBU/Birdfy.com) | A Flappy Bird tribute that grew from one HTML file into a React Native game. [Play it](https://zanyanbu.github.io/Birdfy.com/). |
+| [TaskPilot](https://github.com/ZANYANBU/Taskpilot) | Local-first dashboard that drafts, posts and tracks Reddit content with an LLM. |
+| [School Management System](https://github.com/ZANYANBU/DBMS-project) | Flask app on a normalised SQLite schema, with role-based dashboards and a live SQL console. |
 | [Indian Art Form](https://github.com/ZANYANBU/indian-art-form) | Three interactive pieces for an art course: a timeline, a map, and a generative fusion artwork. [Live site](https://zanyanbu.github.io/indian-art-form/). |
 | [Object Detection](https://github.com/ZANYANBU/Object-detection) | The earlier YOLOv5 intruder-detection experiments. |
 | [PDF Dark Mode Converter](https://github.com/ZANYANBU/pdf-dark-mode-converter) | A fork: recolours PDFs to dark mode in the browser. |
-| [Certificates](https://github.com/ZANYANBU/Certificates) | Certificates and badges, each with a link to verify it. |
+| [Certificates](https://github.com/ZANYANBU/Certificates) | IBM Qiskit Global Summer School 2025 and IBM SkillsBuild badges, each with a link to verify it. |
 
 </details>
 
@@ -147,6 +215,8 @@ My father rode this bike for 20 years and 100,000 km. He and I brought it back w
 
 <div align="center">
 
-*Understand it from first principles, then build it.*
+*"Understand it from first principles, then build it."*
+
+From [ZANYANBU](https://github.com/ZANYANBU)
 
 </div>
