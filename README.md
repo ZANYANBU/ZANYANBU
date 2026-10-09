@@ -200,6 +200,13 @@ My father rode this bike for 20 years and 100,000 km. He and I brought it back w
 
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZANYANBU/ZANYANBU/output/github-contribution-grid-snake-dark.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/ZANYANBU/ZANYANBU/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 Most of my contributions are in Eesa's private repositories. The commit-stats and language cards count public repositories only.
 
 ---
