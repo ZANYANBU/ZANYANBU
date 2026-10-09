@@ -10,7 +10,7 @@ Building [**Eesa AI**](https://eesa.ai) · CS undergrad at **SRM Institute of Sc
 I like taking things apart and rebuilding them, from an AI agent platform to keyboard backlights to junkyard servers.
 
 <a href="https://eesa.ai"><img src="https://img.shields.io/badge/Building-eesa.ai-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="Eesa AI"/></a>
-<a href="https://zanyanbu.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-111216?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://anbu.work.gd"><img src="https://img.shields.io/badge/anbu.work.gd-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/anbuchelvan-v-aa5b11260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:zanyanbuchelvan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/ZANYANBU?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repos"/></a>
