@@ -19,13 +19,23 @@ I like taking things apart and rebuilding them, from an AI agent platform to key
 
 ---
 
-## About
+## What I've shipped
 
-- **Eesa AI** — I work across the whole product: Python backend, Next.js web app, Flutter mobile app and the add-ons the agent uses as tools.
-- **Low-level and systems** — Swift and macOS internals, private Apple frameworks, home servers and data recovery.
-- **Local-first AI** — agents and chat UIs that run fully offline on Ollama, plus MCP tools for AI platforms.
-- **Hardware** — I repair and rebuild things: a server from e-waste, a 20-year-old motorcycle.
-- **Open source** — small, sharp tools with tests, CI and downloadable releases, and write-ups of how they work.
+- **[Eesa AI](https://eesa.ai)** — an AI agent platform live in production on web, iPhone and Android. **1,400+ commits** across backend, web, mobile and five add-ons since June 2026.
+- **[ZANYSURF Browser Agent](https://github.com/ZANYANBU/zanysurf-browser-agent)** — an autonomous browser agent, **published on Microsoft Edge Add-ons**.
+- **Three Mac apps you can download today** — [SlideView](https://github.com/ZANYANBU/SlideView/releases/latest), [Keyboard Strobe](https://github.com/ZANYANBU/keyboard-strobe/releases/latest) and [HapticMouse](https://github.com/ZANYANBU/haptic-mouse/releases/latest), each with a ready-to-run release.
+- **168 automated tests across four projects**, and eight repositories that build and test on every push.
+- **Hardware** — a server rebuilt from e-waste that recovered **200 GB** of lost data, and a 20-year-old motorcycle back on the road.
+
+## Recent activity
+
+<!-- recent-activity:start -->
+- **[Anbu-Surveillance](https://github.com/ZANYANBU/Anbu-Surveillance)** — Multi-camera home security in Python: YOLO person detection, email alerts with snapshots, event recording, Tkinter GUI and encrypted config.  <sub>7 Oct 2026</sub>
+- **[Birdfy.com](https://github.com/ZANYANBU/Birdfy.com)** — Flappy Bird tribute that grew from a single HTML file into a React Native iOS and Android game. Playable in the browser.  <sub>7 Oct 2026</sub>
+- **[Taskpilot](https://github.com/ZANYANBU/Taskpilot)** — Local-first Reddit automation dashboard: AI-drafted posts with Groq, trend discovery, auto-posting and engagement analytics. FastAPI + SQLite.  <sub>7 Oct 2026</sub>
+- **[Object-detection](https://github.com/ZANYANBU/Object-detection)** — YOLOv5 intruder detection for home cameras in Python: multi-camera monitoring, automatic clip recording and email alerts with cooldown.  <sub>7 Oct 2026</sub>
+- **[Certificates](https://github.com/ZANYANBU/Certificates)** — Certificates and verifiable badges I have earned, with links to check each one.  <sub>7 Oct 2026</sub>
+<!-- recent-activity:end -->
 
 ---
 
