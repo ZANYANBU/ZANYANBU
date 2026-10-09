@@ -31,11 +31,11 @@ I like taking things apart and rebuilding them, from an AI agent platform to key
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[Anbu-Surveillance](https://github.com/ZANYANBU/Anbu-Surveillance)** — Multi-camera home security in Python: YOLO person detection, email alerts with snapshots, event recording, Tkinter GUI and encrypted config.  <sub>7 Oct 2026</sub>
-- **[Birdfy.com](https://github.com/ZANYANBU/Birdfy.com)** — Flappy Bird tribute that grew from a single HTML file into a React Native iOS and Android game. Playable in the browser.  <sub>7 Oct 2026</sub>
-- **[Taskpilot](https://github.com/ZANYANBU/Taskpilot)** — Local-first Reddit automation dashboard: AI-drafted posts with Groq, trend discovery, auto-posting and engagement analytics. FastAPI + SQLite.  <sub>7 Oct 2026</sub>
-- **[Object-detection](https://github.com/ZANYANBU/Object-detection)** — YOLOv5 intruder detection for home cameras in Python: multi-camera monitoring, automatic clip recording and email alerts with cooldown.  <sub>7 Oct 2026</sub>
-- **[Certificates](https://github.com/ZANYANBU/Certificates)** — Certificates and verifiable badges I have earned, with links to check each one.  <sub>7 Oct 2026</sub>
+- **[keyboard-strobe](https://github.com/ZANYANBU/keyboard-strobe)** — Turn your MacBook's keyboard backlight into a zero-latency, beat-synced strobe light! 🎹⚡️  <sub>9 Oct 2026</sub>
+- **[portfolio](https://github.com/ZANYANBU/portfolio)** — My personal site: what I build, with links to every project.  <sub>9 Oct 2026</sub>
+- **[SlideView](https://github.com/ZANYANBU/SlideView)** — Native macOS study app: dark-mode viewer for slides, PDFs and notes, with an embedded Excalidraw board and a map of your material. Offline, no account.  <sub>9 Oct 2026</sub>
+- **[DBMS-project](https://github.com/ZANYANBU/DBMS-project)** — School management system built for a DBMS course: normalised SQLite schema, role-based Flask app, attendance, grades and a live SQL console.  <sub>9 Oct 2026</sub>
+- **[zanysurf-browser-agent](https://github.com/ZANYANBU/zanysurf-browser-agent)** — ZANYSURF Browser Agent: an autonomous AI agent that plans, clicks and fills forms in Chrome and Edge. Runs fully local with Ollama, or with 6 other providers. Published on Edge Add-ons.  <sub>9 Oct 2026</sub>
 <!-- recent-activity:end -->
 
 ---
