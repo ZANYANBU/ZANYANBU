@@ -109,13 +109,13 @@ shows up as green squares rather than source. I am happy to walk through any par
 <a href="https://github.com/ZANYANBU/SlideView"><img src="https://raw.githubusercontent.com/ZANYANBU/SlideView/main/docs/library.png" alt="SlideView library"></a>
 <h3><a href="https://github.com/ZANYANBU/SlideView">SlideView</a></h3>
 A native macOS study app. Every lecture file in one dark, offline library, with an embedded Excalidraw board and a map of how your material connects.<br><br>
-<code>Swift</code> <code>AppKit</code> <code>WebKit</code> · 58 tests in CI · <a href="https://github.com/ZANYANBU/SlideView/releases/latest">download</a>
+<code>Swift</code> <code>AppKit</code> <code>WebKit</code> · 58 tests in CI · <a href="https://zanyanbu.github.io/SlideView/">website</a> · <a href="https://github.com/ZANYANBU/SlideView/releases/latest">download</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/ZANYANBU/aether"><img src="https://raw.githubusercontent.com/ZANYANBU/aether/main/docs/screenshot.png" alt="Aether chat"></a>
 <h3><a href="https://github.com/ZANYANBU/aether">Aether</a></h3>
 Private AI chat that runs entirely on your own machine with any Ollama model: text, images and hands-free voice. The whole backend is one Python file with no dependencies.<br><br>
-<code>Python</code> <code>Ollama</code> <code>Whisper</code> · tested on 3 Python versions
+<code>Python</code> <code>Ollama</code> <code>Whisper</code> · tested on 3 Python versions · <a href="https://zanyanbu.github.io/aether/">website</a>
 </td>
 </tr>
 <tr>
@@ -123,13 +123,13 @@ Private AI chat that runs entirely on your own machine with any Ollama model: te
 <a href="https://github.com/ZANYANBU/keyboard-strobe"><img src="https://raw.githubusercontent.com/ZANYANBU/keyboard-strobe/main/demos/demo.gif" alt="Keyboard Strobe demo"></a>
 <h3><a href="https://github.com/ZANYANBU/keyboard-strobe">Keyboard Strobe</a></h3>
 Flashes a MacBook's keyboard backlight in time with whatever is playing. System audio comes in through ScreenCaptureKit; the LEDs are driven through a private Apple framework.<br><br>
-<code>Swift</code> <code>ScreenCaptureKit</code> · <a href="https://github.com/ZANYANBU/keyboard-strobe/releases/latest">download</a>
+<code>Swift</code> <code>ScreenCaptureKit</code> · <a href="https://zanyanbu.github.io/keyboard-strobe/">website</a> · <a href="https://github.com/ZANYANBU/keyboard-strobe/releases/latest">download</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/ZANYANBU/haptic-mouse"><img src="https://raw.githubusercontent.com/ZANYANBU/haptic-mouse/main/assets/screenshot.jpg" alt="HapticMouse menu"></a>
 <h3><a href="https://github.com/ZANYANBU/haptic-mouse">HapticMouse</a></h3>
 Gives any cheap USB mouse a haptic scroll wheel by borrowing the Taptic Engine in the MacBook's trackpad.<br><br>
-<code>Swift</code> <code>IOKit</code> <code>CGEventTap</code> · <a href="https://github.com/ZANYANBU/haptic-mouse/releases/latest">download</a>
+<code>Swift</code> <code>IOKit</code> <code>CGEventTap</code> · <a href="https://zanyanbu.github.io/haptic-mouse/">website</a> · <a href="https://github.com/ZANYANBU/haptic-mouse/releases/latest">download</a>
 </td>
 </tr>
 <tr>
@@ -157,12 +157,12 @@ Home security across several cameras: YOLO person detection, recorded clips, ema
 <td width="50%" valign="top">
 <a href="https://github.com/ZANYANBU/junkyard-pc-to-truenas"><img src="https://raw.githubusercontent.com/ZANYANBU/junkyard-pc-to-truenas/main/photos/first-boot-on-the-bench.jpeg" alt="A salvaged PC running open on a bench"></a>
 <h3><a href="https://github.com/ZANYANBU/junkyard-pc-to-truenas">Junkyard PC to TrueNAS server</a></h3>
-In first year I rebuilt a dead PC from e-waste: straightened bent CPU socket pins, replaced a swollen capacitor in the power supply, reflashed the BIOS, then recovered 200 GB from a wiped disk and turned the machine into a home server.
+In first year I rebuilt a dead PC from e-waste: straightened bent CPU socket pins, replaced a swollen capacitor in the power supply, reflashed the BIOS, then recovered 200 GB from a wiped disk and turned the machine into a home server. <a href="https://zanyanbu.github.io/junkyard-pc-to-truenas/">Read the build log.</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/ZANYANBU/tvs-centra-restoration"><img src="https://raw.githubusercontent.com/ZANYANBU/tvs-centra-restoration/main/photos/13-restored-and-running/02-restored-black-tvs-centra-night-hero-shot-IMG_E6488.jpg" alt="The restored TVS Centra at night"></a>
 <h3><a href="https://github.com/ZANYANBU/tvs-centra-restoration">TVS Centra restoration</a></h3>
-My father rode this bike for 20 years and 100,000 km. He and I brought it back with parts from a ₹3,000 scrapyard donor, an LED headlight and a full AC to DC electrical conversion.
+My father rode this bike for 20 years and 100,000 km. He and I brought it back with parts from a ₹3,000 scrapyard donor, an LED headlight and a full AC to DC electrical conversion. <a href="https://zanyanbu.github.io/tvs-centra-restoration/">Read the build log.</a>
 </td>
 </tr>
 </table>
@@ -218,7 +218,7 @@ Most of my contributions are in Eesa's private repositories. The commit-stats an
 
 | Project | What it is |
 |---|---|
-| [Quantum Classroom](https://github.com/ZANYANBU/Quantum-Classroom) | A side project: a browser lab that runs 12 Qiskit experiments, each one checked in CI. |
+| [Quantum Classroom](https://github.com/ZANYANBU/Quantum-Classroom) | A side project: a browser lab that runs 12 Qiskit experiments, each one checked in CI. [Live demo](https://zanyanbu.github.io/Quantum-Classroom/). |
 | [Birdfy](https://github.com/ZANYANBU/Birdfy.com) | A Flappy Bird tribute that grew from one HTML file into a React Native game. [Play it](https://zanyanbu.github.io/Birdfy.com/). |
 | [TaskPilot](https://github.com/ZANYANBU/Taskpilot) | Local-first dashboard that drafts, posts and tracks Reddit content with an LLM. |
 | [School Management System](https://github.com/ZANYANBU/DBMS-project) | Flask app on a normalised SQLite schema, with role-based dashboards and a live SQL console. |
