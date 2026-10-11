@@ -31,11 +31,11 @@ I like taking things apart and rebuilding them, from an AI agent platform to key
 ## Recent activity
 
 <!-- recent-activity:start -->
+- **[tvs-centra-restoration](https://github.com/ZANYANBU/tvs-centra-restoration)** — Father-and-son restoration of a 2004 TVS Centra (100,000+ km) using parts from a junkyard donor bike — LED headlight and AC-to-DC electrical conversion. A photo journal of the build.  <sub>10 Oct 2026</sub>
 - **[portfolio](https://github.com/ZANYANBU/portfolio)** — My personal site: what I build, with links to every project.  <sub>10 Oct 2026</sub>
 - **[keyboard-strobe](https://github.com/ZANYANBU/keyboard-strobe)** — Turn your MacBook's keyboard backlight into a zero-latency, beat-synced strobe light! 🎹⚡️  <sub>9 Oct 2026</sub>
 - **[SlideView](https://github.com/ZANYANBU/SlideView)** — Native macOS study app: dark-mode viewer for slides, PDFs and notes, with an embedded Excalidraw board and a map of your material. Offline, no account.  <sub>9 Oct 2026</sub>
 - **[DBMS-project](https://github.com/ZANYANBU/DBMS-project)** — School management system built for a DBMS course: normalised SQLite schema, role-based Flask app, attendance, grades and a live SQL console.  <sub>9 Oct 2026</sub>
-- **[zanysurf-browser-agent](https://github.com/ZANYANBU/zanysurf-browser-agent)** — ZANYSURF Browser Agent: an autonomous AI agent that plans, clicks and fills forms in Chrome and Edge. Runs fully local with Ollama, or with 6 other providers. Published on Edge Add-ons.  <sub>9 Oct 2026</sub>
 <!-- recent-activity:end -->
 
 ---
