@@ -31,11 +31,11 @@ I like taking things apart and rebuilding them, from an AI agent platform to key
 ## Recent activity
 
 <!-- recent-activity:start -->
+- **[Certificates](https://github.com/ZANYANBU/Certificates)** — Certificates and verifiable badges I have earned, with links to check each one.  <sub>12 Oct 2026</sub>
 - **[quantum-kernel-classifier](https://github.com/ZANYANBU/quantum-kernel-classifier)** — A basic use case of quantum computing for machine learning: an SVM with a two-qubit quantum kernel. Slides and a live demo.  <sub>12 Oct 2026</sub>
 - **[SlideView](https://github.com/ZANYANBU/SlideView)** — Native macOS study app: dark-mode viewer for slides, PDFs and notes, with an embedded Excalidraw board and a map of your material. Offline, no account.  <sub>11 Oct 2026</sub>
 - **[tvs-centra-restoration](https://github.com/ZANYANBU/tvs-centra-restoration)** — Father-and-son restoration of a 2004 TVS Centra (100,000+ km) using parts from a junkyard donor bike — LED headlight and AC-to-DC electrical conversion. A photo journal of the build.  <sub>10 Oct 2026</sub>
 - **[portfolio](https://github.com/ZANYANBU/portfolio)** — My personal site: what I build, with links to every project.  <sub>10 Oct 2026</sub>
-- **[keyboard-strobe](https://github.com/ZANYANBU/keyboard-strobe)** — Turn your MacBook's keyboard backlight into a zero-latency, beat-synced strobe light! 🎹⚡️  <sub>9 Oct 2026</sub>
 <!-- recent-activity:end -->
 
 ---
