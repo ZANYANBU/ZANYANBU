@@ -31,11 +31,11 @@ I like taking things apart and rebuilding them, from an AI agent platform to key
 ## Recent activity
 
 <!-- recent-activity:start -->
+- **[network-mcp-diagnosis-agent](https://github.com/ZANYANBU/network-mcp-diagnosis-agent)** — Network MCP server with a diagnosis agent: finds which network layer is broken. 21CSC302J Computer Networks project, SRM IST.  <sub>14 Oct 2026</sub>
 - **[warehouse-sku-kmeans](https://github.com/ZANYANBU/warehouse-sku-kmeans)** — K-Means clustering of warehouse SKUs: a live step-by-step demo, slides and a presentation script (Machine Learning project review)  <sub>13 Oct 2026</sub>
 - **[Certificates](https://github.com/ZANYANBU/Certificates)** — Certificates and verifiable badges I have earned, with links to check each one.  <sub>12 Oct 2026</sub>
 - **[quantum-kernel-classifier](https://github.com/ZANYANBU/quantum-kernel-classifier)** — A basic use case of quantum computing for machine learning: an SVM with a two-qubit quantum kernel. Slides and a live demo.  <sub>12 Oct 2026</sub>
 - **[SlideView](https://github.com/ZANYANBU/SlideView)** — Native macOS study app: dark-mode viewer for slides, PDFs and notes, with an embedded Excalidraw board and a map of your material. Offline, no account.  <sub>11 Oct 2026</sub>
-- **[tvs-centra-restoration](https://github.com/ZANYANBU/tvs-centra-restoration)** — Father-and-son restoration of a 2004 TVS Centra (100,000+ km) using parts from a junkyard donor bike — LED headlight and AC-to-DC electrical conversion. A photo journal of the build.  <sub>10 Oct 2026</sub>
 <!-- recent-activity:end -->
 
 ---
