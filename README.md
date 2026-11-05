@@ -2,6 +2,11 @@
 
 # Hi, I'm V. Anbuchelvan
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/profile/card-dark.svg">
+  <img alt="V. Anbuchelvan: ASCII portrait with profile details and GitHub stats" src=".github/profile/card-light.svg" width="100%">
+</picture>
+
 <a href="https://github.com/ZANYANBU"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=720&height=45&lines=Building+Eesa+AI%3A+backend%2C+web%2C+mobile%2C+add-ons;Low-Level+Systems+%26+macOS+Internals;Local-First+AI+%26+Autonomous+Agents;Understand+from+First+Principles%2C+then+Build" alt="Typing SVG" width="720" height="45" /></a>
 
 ### I build software that businesses run their day on, and tools I wanted to exist
