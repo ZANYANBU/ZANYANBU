@@ -36,9 +36,9 @@ I like taking things apart and rebuilding them, from an AI agent platform to key
 ## Recent activity
 
 <!-- recent-activity:start -->
+- **[ml-mini-projects](https://github.com/ZANYANBU/ml-mini-projects)** — Machine Learning (21CSC305P) mini projects, all five units: regression, robust regression, K-Means, Kalman filtering, BMA + gradient boosting. Team Cash Guard, SRM IST.  <sub>19 Nov 2026</sub>
 - **[quantum-kernel-classifier](https://github.com/ZANYANBU/quantum-kernel-classifier)** — A basic use case of quantum computing for machine learning: an SVM with a two-qubit quantum kernel. Slides and a live demo.  <sub>18 Nov 2026</sub>
 - **[network-mcp-diagnosis-agent](https://github.com/ZANYANBU/network-mcp-diagnosis-agent)** — Network MCP server with a diagnosis agent: finds which network layer is broken. 21CSC302J Computer Networks project, SRM IST.  <sub>17 Nov 2026</sub>
-- **[ml-mini-projects](https://github.com/ZANYANBU/ml-mini-projects)** — Machine Learning (21CSC305P) mini projects, all five units: regression, robust regression, K-Means, Kalman filtering, BMA + gradient boosting. Team Cash Guard, SRM IST.  <sub>17 Nov 2026</sub>
 - **[portfolio](https://github.com/ZANYANBU/portfolio)** — My personal site: what I build, with links to every project.  <sub>5 Nov 2026</sub>
 - **[drone-state-estimation](https://github.com/ZANYANBU/drone-state-estimation)** — Drone 3-D position, velocity and wind estimation in turbulent wind: a linear dynamical system solved by Kalman filtering, RTS smoothing and EM. IMU noise measured from a real PX4 flight log; turbulence from real measured gusts. 155x better than dead reckoning. ML Unit 4.  <sub>28 Oct 2026</sub>
 <!-- recent-activity:end -->
